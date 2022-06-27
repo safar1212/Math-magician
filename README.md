@@ -65,7 +65,7 @@ Install all project dependencies by running the command below
 
 Run
 ``` 
-  `$ start local server
+  `$ npm start
 ```
 
 
