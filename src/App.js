@@ -1,30 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-// import calculator.js from './components';
+import React from 'react';
+import Calculator from './components/calculator';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        
-        <p>
-          Edit
-          {' '}
-          <code>src/App.js</code>
-          {' '}
-          and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default class Website extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
+  render() {
+    return <Calculator />;
+  }
 }
-
-export default App;
