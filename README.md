@@ -73,7 +73,7 @@ Run
 
 | 👤 Name | Github | Twitter | LinkedIn |
 |------|--------|---------|----------|
-|Safar Ali|[@caasperr](https://github.com/safar1212)|[@Safar Ali](https://twitter.com/SafarAli999)|[@Safar Ali](https://www.linkedin.com/in/safar-ali999/)|
+|Safar Ali|[@Safar Ali](https://github.com/safar1212)|[@Safar Ali](https://twitter.com/SafarAli999)|[@Safar Ali](https://www.linkedin.com/in/safar-ali999/)|
 
 ## 🤝 Contributing
 
