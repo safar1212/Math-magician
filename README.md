@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-> This website is build using React. This website contains a calculator which anyone could use for required purposes 😋
+> This website is build using React. This website contains a calculator which anyone could use for required purposes. Moreover, it also has three pages, and have been build as SPA. 😋
 
 <!-- ScreenShot 1                                      |
 :------------------------------------------------:|
