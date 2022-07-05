@@ -17,15 +17,14 @@ ScreenShot 2                                      |
 - HTML 😄
 - Css 🔥
 - React 😋
-- WebPack 😉
+- Babel 😉
 - AAA test pattern (jest).
 
-<!-- ## Functionalites 😄
+## Functionalites 😄
 
-- Can Add new comments. 😄
-- Can like the meals. ✔️
-- Can see the number of meals on the home screen. 🙌
-- can see the number of likes and comments on a specific meal. ✅ -->
+- Contains a calculator. 😄
+- You can read quotes ✔️
+
 
 
 
