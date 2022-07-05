@@ -1,9 +1,8 @@
 .calculator-div {
   margin: 0 auto;
   margin-top: 60px;
-
-  /* border: 2px red solid; */
-  width: 20%;
+  border: 2px red solid;
+  width: 272px;
 }
 
 .input {
