@@ -5,7 +5,7 @@ const Navbar = () => {
   const links = [
     {
       id: 1,
-      path: "/",
+      path: "/home",
       text: "Home",
     },
     {
@@ -22,6 +22,7 @@ const Navbar = () => {
 
   return (
     <nav className="navBar">
+        <h1>Math Magician</h1>
     <ul>
       {links.map(link => {
         return (
