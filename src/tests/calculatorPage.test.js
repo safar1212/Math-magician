@@ -1,6 +1,6 @@
-import CalculatorPage from '../pages/calculatorPage';
 import renderer from 'react-test-renderer';
-import  {render} from '@testing-library/react';
+import { render } from '@testing-library/react';
+import CalculatorPage from '../pages/calculatorPage';
 
 describe('home test', () => {
   it('home render correctly', () => {

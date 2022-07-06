@@ -1,7 +1,6 @@
-import calculate from "../logic/calculate";
+import calculate from '../logic/calculate';
 
 describe('Calculate file testing', () => {
-
   it('AC test', () => {
     const obj = {
       total: 10,
@@ -37,5 +36,4 @@ describe('Calculate file testing', () => {
       operation: '+',
     });
   });
-
 });

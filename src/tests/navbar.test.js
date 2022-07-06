@@ -1,11 +1,9 @@
-import Navbar from "../components/navBar";
 import { render, screen } from '@testing-library/react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import renderer from 'react-test-renderer';
-
+import Navbar from '../components/navBar';
 
 describe('Navbar', () => {
-
   test('Builds the snapchot of the navbar component safely', () => {
     const navbar = renderer.create(<Router><Navbar /></Router>).toJSON();
     expect(navbar).toMatchSnapshot();
@@ -16,9 +14,4 @@ describe('Navbar', () => {
 
     screen.getByRole('navigation');
   });
-
 });
-
-
-
-
