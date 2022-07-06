@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`quote test quote render correctly 1`] = `
+<div
+  className="QuoteDiv"
+>
+  <p>
+    Sometimes it pays to stay in bed on Monday‚ rather than spending the rest of the week debugging Monday′s code - Dan Salomon
+  </p>
+</div>
+`;
