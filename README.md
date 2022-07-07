@@ -14,11 +14,11 @@ ScreenShot 2                                      |
                               
 ## Built With ✔️
 
-- HTML 😄
+
 - Css 🔥
 - React 😋
 - Babel 😉
-- AAA test pattern (jest).
+-DDT testing.
 
 ## Functionalites 😄
 
@@ -29,9 +29,13 @@ ScreenShot 2                                      |
 
 
 
-<!-- ## Live Demo ✔️
+## Live Version deployed throught Heroku ✔️
 
-[Live Demo Link]() -->
+[Live Demo Link](https://safar-todo.herokuapp.com/home)
+
+## Live Version deployed throught Netlify ✔️
+
+[Live Demo Link](https://stupendous-sable-343635.netlify.app/home)
 
 
 ## Getting Started 🙌
