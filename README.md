@@ -35,7 +35,7 @@ ScreenShot 2                                      |
 
 ## Live Version deployed throught Netlify ✔️
 
-[Live Demo Link](https://stupendous-sable-343635.netlify.app/home)
+[Live Demo Link](https://stupendous-sable-343635.netlify.app/)
 
 
 ## Getting Started 🙌
