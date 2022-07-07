@@ -4,18 +4,17 @@
 
 > This website is build using React. This website contains a calculator which anyone could use for required purposes. Moreover, it also has three pages, and have been build as SPA. 😋
 
-<!-- ScreenShot 1                                      |
-:------------------------------------------------:|
-<img src="./Screenshots/Screenshot%201.png" height="600" width=auto> | 
-ScreenShot 2                                      |
-:------------------------------------------------:|
-<img src="./Screenshots/Screenshot%202.png" width= "1200"> -->
+ ## ScreenShot
+ 
+ ![2022-07-07_13-33-50](https://user-images.githubusercontent.com/78845635/177738385-9a3827d7-8cc3-4523-a720-abf31505d378.jpg)
+
+
 
                               
 ## Built With ✔️
 
 
-- Css 🔥
+- CSS 🔥
 - React 😋
 - Babel 😉
 -DDT testing.
