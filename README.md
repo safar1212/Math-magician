@@ -17,7 +17,7 @@
 - CSS 🔥
 - React 😋
 - Babel 😉
--DDT testing.
+- TDD testing.
 
 ## Functionalites 😄
 
