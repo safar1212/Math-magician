@@ -28,9 +28,7 @@
 
 
 
-## Live Version deployed throught Heroku ✔️
 
-[Live Demo Link](https://safar-todo.herokuapp.com/home)
 
 ## Live Version deployed throught Netlify ✔️
 
